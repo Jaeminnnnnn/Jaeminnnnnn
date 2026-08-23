@@ -1,22 +1,42 @@
-<!-- 다이내믹 헤더 애니메이션 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Jaemin!&fontSize=70" />
+<div class="header" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D1D5DB&text=JAEMIN'S%20GITHUB&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Jaemin's GitHub">
+</div>
 
-### 👨‍💻 About Me
-모바일 앱 개발과 문제 해결을 즐기는 학생 개발자입니다. 사용자에게 직관적이고 가치 있는 경험을 제공하는 애플리케이션을 만드는 데 관심이 많습니다.
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+  <div style="margin: 0 auto; text-align: center;" align="center"> 
+    <!-- 1. Languages -->
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+    <br/>
+    <!-- 2. Framework & Backend -->
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <br/>
+    <!-- 3. Environment & Tools -->
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  </div>
+  <br>
 
-* 🎓 **Education:** C 프로그래밍을 비롯한 컴퓨터 공학의 기초를 탄탄히 다지고 있습니다.
-* 🌱 **Currently Learning:** 창의학기제를 통해 주도적으로 프로젝트를 기획하고 실무적인 개발 역량을 키우는 중입니다.
-* 💻 **Environment:** MacBook과 iOS 환경에서 개발하는 것을 즐깁니다.
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects 🚀 </h2>
+  <div align="center">
+    <h3>🎫 PASSTIME</h3>
+    <p><em>"종이 티켓 없이 핸드폰만 보여주세요!"</em><br>
+    세종대학교 학우들을 위한 모바일 티켓 및 체크인 서비스</p>
+    <p>
+      ✔️ 세종대학교 학번 로그인으로 간편한 소속 인증<br>
+      ✔️ 참가자와 주최자를 위한 맞춤형 권한 및 기능 제공<br>
+      ✔️ 모바일 티켓 발급과 현장 체크인으로 행사 운영 효율 극대화
+    </p>
+  </div>
+  <br>
 
-### 🛠️ Tech Stack
-* **Mobile:** <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-* **Language:** <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-
-### 🚀 Projects
-* **Wearther**: 기획부터 기능 구현까지 단독으로 개발을 진행하고 있는 모바일 애플리케이션입니다.
-* **PASSTIME**: 사용자 편의를 고려하여 개발한 모바일 앱 프로젝트입니다. (`com.example.passtime`)
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=transparent" />
-</p>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaeminnnnnn&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
